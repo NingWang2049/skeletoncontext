@@ -14,7 +14,8 @@ Citation
 
 Please cite the paper if this repository is useful for your research:
 
-'''
+
+```bibtex
 @inproceedings{wang2026skeletoncontext,
   title={SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition},
   author={Wang, Ning and Wu, Tieyue and Sharif, Naeha and Boussaid, Farid and Zhu, Guangming and Mei, Lin and Bennamoun, Mohammed and Zhang, Liang},
